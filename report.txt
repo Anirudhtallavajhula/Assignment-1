@@ -1,0 +1,4 @@
+Grip Strength Analysis by Frailty Status
+
+Mean Grip Strength (No Frailty): 27.666666666666668
+Mean Grip Strength (Frailty): 23.5
